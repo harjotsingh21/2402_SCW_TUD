@@ -1,7 +1,8 @@
 '''
 
-Aim: this script counts the number of lines in the standard input
-input: string from the command line
+Aim: this script counts the number of lines in the standard input.
+input: string from the command line.
+output: counts the number of lines.
 '''
 
 import sys
