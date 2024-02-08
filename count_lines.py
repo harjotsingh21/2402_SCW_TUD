@@ -3,7 +3,6 @@
 Aim: this script counts the number of lines in the standard input.
 input: string from the command line.
 output: counts the number of lines.
-Author: Saluja, Harjot Singh
 '''
 
 import sys
